@@ -13,10 +13,10 @@ A front end project built using HTML, CSS and Javascript as a part of Advanced J
 
 
 ## Flowchart for control flow
-!()[https://github.com/Sushant-Mittal/bankist-app-transaction-control/blob/main/Bankist-flowchart.png]
+![](https://github.com/Sushant-Mittal/bankist-app-transaction-control/blob/main/Bankist-flowchart.png)
 
 
 ## Screenshots of UI
-!()[https://github.com/Sushant-Mittal/bankist-app-transaction-control/blob/main/image.png]
+![](https://github.com/Sushant-Mittal/bankist-app-transaction-control/blob/main/image.png)
 
-!()[https://github.com/Sushant-Mittal/bankist-app-transaction-control/blob/main/screenshot-127.0.0.1_5501-2024.09.27-14_52_31.png]
+![](https://github.com/Sushant-Mittal/bankist-app-transaction-control/blob/main/screenshot-127.0.0.1_5501-2024.09.27-14_52_31.png)
